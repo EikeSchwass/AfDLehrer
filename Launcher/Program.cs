@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Threading;
 using Flurl.Http;
 
-namespace AfDLehrer
+namespace Launcher
 {
     public static class Program
     {

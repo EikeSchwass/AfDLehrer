@@ -1,4 +1,4 @@
-﻿namespace AfDLehrer
+﻿namespace Launcher
 {
     public static class Phrases
     {
@@ -95,6 +95,7 @@
             "Hochachtungsvoll",
             "Liebe Grüße",
             "Liebe Grüße",
+            "HH",
             "MfG",
             "MfG",
             "MfG",
