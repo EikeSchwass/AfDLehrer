@@ -95,7 +95,6 @@
             "Hochachtungsvoll",
             "Liebe Grüße",
             "Liebe Grüße",
-            "HH",
             "MfG",
             "MfG",
             "MfG",
